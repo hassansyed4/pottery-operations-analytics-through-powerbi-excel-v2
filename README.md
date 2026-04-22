@@ -149,21 +149,6 @@ The final dashboard provided clear insights into ticket distribution, SLA perfor
 pottery-operations-analytics-by-jira-v2/
 │
 ├── README.md
-├── data/
-│ ├── raw/
-│ │ └── jira_export.csv
-│ └── processed/
-│ └── cleaned_data.xlsx
-│
-├── dashboards/
-│ ├── excel_dashboard.xlsx
-│ └── powerbi_dashboard.pbix
-│
-├── docs/
-│ └── screenshots/
-│ ├── dashboard_overview.png
-│ ├── sla_analysis.png
-│ ├── workload_analysis.png
-│
-└── reports/
-└── insights_summary.md
+├── PowerBI JIRA Dashboard.pbix
+├── jira_ticket_dataset.xlsx
+└── 
